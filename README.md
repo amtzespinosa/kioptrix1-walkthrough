@@ -7,7 +7,7 @@ As always, let's start with my setup:
 - Another VM running **Kioptrix.** 
 - A **local network** for both machines. If you want to know how to set up a local network for your VirtualBox adventures, follow [**this simple tutorial.**](https://github.com/amtzespinosa/secure-network-for-ctf)
 - Coffee. You always need coffee for hacking.
-- And today, to season this CTF session... Let's play [**Pantera - Vulgar Display of Power**](https://www.youtube.com/watch?v=T3_v7wPNj9w&ab_channel=ThrashtilDeath4K%28Fullalbums&lyrics%29)
+- And today, to season this CTF session... Let's play [**Pantera - Vulgar Display of Power**](https://www.youtube.com/watch?v=FTOilfxhwxs&ab_channel=Kerrrang)
 
 Now you are all set up and ready to go!
 
