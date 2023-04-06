@@ -450,12 +450,12 @@ Now yes, we can `exploit` and... root access! Yay!
 
 ## Final thoughts
 
-Despite being an easy and beginner vulnerable machine I wouyld always recommend this CTF (although there's no flag -- quite disappointed about that). 
+Despite being an easy and beginner vulnerable machine I would always recommend this CTF (although there's no flag -- quite disappointed about that). 
 
 This machine helps understand and build a methodology for pentesting. As you can see, exploitation is the easiest and shortest part of the process. And it's always like so in pentesting. Recon, recon, recon. Enumeration, enumeration, enumeration, enumeration, enumeration... enumeration. And exploitation. 
 
 Yes, we should maintain access as well but that's as simple as uploading an exploit for a back-door. 
 
-This is one of the vulnerable machines I learnt the most when I first did it time ago. I hope this helps you have a better perspective of what Ethical Hacking is about.
+This is one of the vulnerable machines I learnt the most from when I first did it time ago. I hope this helps you have a better perspective of what Ethical Hacking is about.
 
 Thank you for reading and happy hacking!
