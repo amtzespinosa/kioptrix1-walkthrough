@@ -1,4 +1,4 @@
-# CTF #2 - Kioptrix
+# CTF #1 - Kioptrix
 Today we are hacking into a highly recommended beginner CTF called Kioptrix. I had some troubles installing the machine from VulnHub so, in case you face some errors, I am providing you the .OVA file for the vulnerable machine. You can download it [**here.**](https://drive.google.com/file/d/1NaMSjcSPXcM4Df5mwddhP-VKtRdIOpUF/view?usp=share_link)
 
 As always, let's start with my setup:
