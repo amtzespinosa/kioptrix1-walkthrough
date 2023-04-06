@@ -178,7 +178,7 @@ After a while, nothing interesting seems to appear so... what about start enumer
 > **Spoiler:** Nothing was found :(
 
 ### Enumerating SMB
-SMB ports are well known for being insecure. There are loads of exploits for them. So make sure your samba ports are closed. But now we are in the attackers side so it's good for us that SMB ports are open.
+SMB ports are well known for being insecure. There are loads of exploits for them. So make sure your samba ports are closed. But now we are in the attacker's side so it's good for us that SMB ports are open.
 
 Let's start enumerating SMB.
 
@@ -443,6 +443,7 @@ Why? Because of the payload itself. Long story short: The default payload **(lin
 As you can see, the path is different:
 
 **Staged:** set payload linux/x86/**shell/reverse_tcp**
+
 **Non-Staged:** set payload linux/x86/**shell_reverse_tcp**
 
 Now yes, we can `exploit` and... root access! Yay!
