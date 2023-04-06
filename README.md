@@ -38,7 +38,7 @@ After a few minutes we already have some good information about our victim: **Ki
 
 It looks that we will have to perfom a bit of recon and enumeration this time. Let's run a more thorough scan to make sure we are not leaving anything behind as this **quick scan** only scans 1000 ports... **and there are 65535 ports!**
 
-    sudo nmap -p- -T4 -A -O -v 192.168.1.28
+    sudo nmap -p- -T4 -A -O -v 192.168.1.31
 
 And the output...
 
