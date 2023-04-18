@@ -459,3 +459,5 @@ Yes, we should maintain access as well but that's as simple as uploading an expl
 This is one of the vulnerable machines I learnt the most from when I first did it time ago. I hope this helps you have a better perspective of what Ethical Hacking is about.
 
 Thank you for reading and happy hacking!
+
+Check my next adventure: [CTF #2 - Lord Of The Root](https://github.com/amtzespinosa/lord-of-the-root-walkthrough)
